@@ -1,4 +1,4 @@
-# Udacity-Data-Wrangling
+# Udacity - Data Wrangling
 ## Overview
 This project was my second assignment for Udacity's Data Analyst Nanodegree. I learned about the different steps of data wrangling such as gathering, 
 cleaning, storing, analyzing, and visualizing. I collected data from Twitter API data on the twitter account WeRateDogs. I cleaned the data based on 
